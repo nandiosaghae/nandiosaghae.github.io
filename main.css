@@ -1,9 +1,9 @@
 html {
     background-color: LightGoldenrodYellow;
     font: 50 px 'Indie Flower', cursive; 
-    margin: 35px;
-    text-shadow:
+    margin: auto;
+    text-shadow: 3px 3px MediumOrchid;
     box-shadow: 5px 5px;
-    text-align:
+    text-align: center;
     border: ridge 8px tomato;
 }
