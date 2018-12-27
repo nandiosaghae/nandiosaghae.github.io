@@ -1,6 +1,10 @@
 html {
-    background-color: LightGoldenrodYellow;
-    font: 50 px 'Indie Flower', cursive; 
-    margin: auto;
-    text-shadow: 2px 2px MediumOrchid;
+  background-color: LightGoldenrodYellow;
 }
+ 
+h1,
+h2 {
+  font: 50 px 'Indie Flower', cursive;
+}
+     
+  
