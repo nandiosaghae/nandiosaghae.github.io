@@ -1,5 +1,6 @@
 html {
   background-color: LightGoldenrodYellow;
+  margin: auto; 
 }
  
 h1,
@@ -9,6 +10,7 @@ h2 {
 
 body {
   color: MediumSpringGreen;
+  border: 10px outset PowderBlue;
 }
      
   
