@@ -12,5 +12,10 @@ body {
   color: SteelBlue;
   border: 10px outset PowderBlue;
 }
+
+img {
+  border: 7px inset PowderBlue;
+  margin: auto;
+  box-shadow: SteelBlue;
      
   
