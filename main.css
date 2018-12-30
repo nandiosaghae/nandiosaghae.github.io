@@ -1,6 +1,5 @@
 html {
   background-color: LightGoldenrodYellow;
-  font: 50px 'Indie Flower', cursive;
   margin: auto; 
   color: SteelBlue;
 }
@@ -12,7 +11,9 @@ h2 {
 
 body {
   color: SteelBlue;
+  font: 50px 'Indie Flower', cursive;
   border: 10px outset PowderBlue;
+  margin: auto;
 }
 
 img {
