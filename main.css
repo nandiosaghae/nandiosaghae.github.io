@@ -23,7 +23,7 @@ img {
 }
   
 p {
-  color: black;
+  color: SteelBlue;
   text-decoration: none;
   margin: justify;
   text-align: center;
@@ -32,6 +32,20 @@ p {
 ul {
   list-style-type: disc;
 }
+
+a {
+ color: SteelBlue;
+ text-decoration: none;
+}
+
+a:visited {
+      color: RebeccaPurple;
+    }
+
+a:hover {
+      color: DodgerBlue;
+      text-decoration: underline;
+    }
    
      
   
