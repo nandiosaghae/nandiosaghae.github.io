@@ -2,17 +2,18 @@ html {
   background-color: LightGoldenrodYellow;
   color: SteelBlue;
   width: 320px;
-  margin: 0 auto 0 auto;
-  text-align: left;
+  text-align: center;
 }
 
 header {
    border: 20px outset PowderBlue;
+   text-align: center;
 }
   
 h1,
 h2 {
   font: 50px 'Indie Flower', cursive;
+  margin: auto;
   text-shadow: 2px 2px 4px LightCoral;
 }
 
@@ -21,7 +22,7 @@ body {
   font: 50px 'Major Mono Display', monospace;
   margin: 0 auto 0 auto;
   text-shadow: 2px 2px 4px LightCoral;
-  text-align: left;
+  text-align: center;
 }
 
 img {
@@ -34,7 +35,7 @@ p {
   color: SteelBlue;
   text-decoration: none;
   margin: auto;
-  text-align: left;
+  text-align: center;
 }
   
 ul {
