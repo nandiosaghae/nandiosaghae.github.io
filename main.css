@@ -1,6 +1,7 @@
 html {
   background-color: LightGoldenrodYellow;
   color: SteelBlue;
+  border: 20px outset PowderBlue;
   width: 320px;
   margin: auto;
 }
