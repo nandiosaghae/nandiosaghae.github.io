@@ -14,14 +14,14 @@ h1,
 h2 {
   font: 50px 'Indie Flower', cursive;
   margin: auto;
-  text-shadow: 2px 2px 4px LightCoral;
+  text-shadow: 5px 6px 6px LightCoral;
 }
 
 body {
   color: SteelBlue;
   font: 50px 'Major Mono Display', monospace;
   margin: 0 auto 0 auto;
-  text-shadow: 2px 2px 4px LightCoral;
+  text-shadow: 5px 6px 6px LightCoral;
   text-align: center;
 }
 
