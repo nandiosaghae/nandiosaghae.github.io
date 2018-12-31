@@ -3,6 +3,7 @@ html {
   color: SteelBlue;
   width: 320px;
   margin: 0 auto 0 auto;
+  text-align: left;
 }
 
 header {
@@ -20,6 +21,7 @@ body {
   font: 50px 'Major Mono Display', monospace;
   margin: 0 auto 0 auto;
   text-shadow: LightCoral;
+  text-align: left;
 }
 
 img {
@@ -32,7 +34,7 @@ p {
   color: SteelBlue;
   text-decoration: none;
   margin: auto;
-  text-align: justify;
+  text-align: left;
 }
   
 ul {
