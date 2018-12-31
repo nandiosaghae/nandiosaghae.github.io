@@ -12,13 +12,14 @@ header {
 h1,
 h2 {
   font: 50px 'Indie Flower', cursive;
-  text-shadow: 
+  text-shadow: LightCoral;
 }
 
 body {
   color: SteelBlue;
   font: 50px 'Major Mono Display', monospace;
   margin: 0 auto 0 auto;
+  text-shadow: LightCoral;
 }
 
 img {
