@@ -11,12 +11,12 @@ header {
   
 h1,
 h2 {
-  font: 25px 'Indie Flower', cursive;
+  font: 50px 'Indie Flower', cursive;
 }
 
 body {
   color: SteelBlue;
-  font: 25px 'Major Mono Display', monospace;
+  font: 50px 'Major Mono Display', monospace;
   margin: auto;
   text-align: justify;
 }
