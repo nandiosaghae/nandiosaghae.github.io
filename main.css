@@ -20,5 +20,18 @@ img {
   border: 10px inset PowderBlue;
   margin: auto;
   box-shadow: PowderBlue;
+}
+  
+p {
+  color: black;
+  text-decoration: none;
+  margin: 14px 0 10px 0;
+  text-align: center;
+}
+  
+ul {
+  list-style-type: disc;
+}
+   
      
   
