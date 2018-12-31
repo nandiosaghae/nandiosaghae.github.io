@@ -6,12 +6,12 @@ html {
 
 h1,
 h2 {
-  font: 50px 'Indie Flower', cursive;
+  font: 25px 'Indie Flower', cursive;
 }
 
 body {
   color: SteelBlue;
-  font: 50px 'Major Mono Display', monospace;
+  font: 25px 'Major Mono Display', monospace;
   border: 10px outset PowderBlue;
   margin: auto;
 }
