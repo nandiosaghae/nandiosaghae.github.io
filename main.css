@@ -14,6 +14,7 @@ body {
   font: 25px 'Major Mono Display', monospace;
   border: 20px outset PowderBlue;
   margin: auto;
+  text-align: center;
 }
 
 img {
@@ -25,8 +26,8 @@ img {
 p {
   color: SteelBlue;
   text-decoration: none;
-  margin: justify;
-  text-align: center;
+  margin: auto;
+  text-align: justify;
 }
   
 ul {
