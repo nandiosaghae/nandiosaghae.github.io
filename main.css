@@ -1,7 +1,7 @@
 html {
   background-color: LightGoldenrodYellow;
   color: SteelBlue;
-  margin: 0 auto 0 auto;
+  margin: auto;
 }
 
 h1,
@@ -12,7 +12,7 @@ h2 {
 body {
   color: SteelBlue;
   font: 25px 'Major Mono Display', monospace;
-  border: 10px outset PowderBlue;
+  border: 20px outset PowderBlue;
   margin: auto;
 }
 
