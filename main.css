@@ -2,7 +2,7 @@ html {
   background-color: LightGoldenrodYellow;
   color: SteelBlue;
   width: 320px;
-  margin: auto;
+  margin: 0 auto 0 auto;
 }
 
 header {
@@ -18,7 +18,7 @@ h2 {
 body {
   color: SteelBlue;
   font: 50px 'Major Mono Display', monospace;
-  margin: auto;
+  margin: 0 auto 0 auto;
 }
 
 img {
