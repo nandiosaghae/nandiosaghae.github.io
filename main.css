@@ -1,11 +1,14 @@
 html {
   background-color: LightGoldenrodYellow;
   color: SteelBlue;
-  border: 20px outset PowderBlue;
   width: 320px;
   margin: auto;
 }
 
+header {
+   border: 20px outset PowderBlue;
+}
+  
 h1,
 h2 {
   font: 25px 'Indie Flower', cursive;
@@ -14,7 +17,6 @@ h2 {
 body {
   color: SteelBlue;
   font: 25px 'Major Mono Display', monospace;
-  border: 20px outset PowderBlue;
   margin: auto;
   text-align: center;
 }
