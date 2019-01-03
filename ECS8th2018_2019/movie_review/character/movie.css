@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Gorditas:700');
+
+html {
+  width: 320px;
+  margin: auto;
+  font: 18px 'Comic Sans MS', cursive;
+  background: royalBlue;
+}
+
+h1,
+h2,
+a,
+footer {
+  font-family: 'Gorditas', cursive;
+  background-color: tomato;
+}
+
+a:hover {
+  color: rgb(100, 38.8, 27.8);
+}
+
+h1,
+h2,
+footer {
+  text-align: center;
+  border-style: 9px ridge darkBlue;
+}
+
+h1 {
+  text-shadow: -4px -4px 0 blue;
+}
+
+img {
+  border: 9px ridge darkBlue;
+  background: url(/images/textures/light15a;) tomato;
+}
+
+ul {
+  list-style-image: url(images/icons/icon25.png);
+}
