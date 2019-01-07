@@ -49,11 +49,11 @@ a {
 }
 
 a:visited {
-      color: RebeccaPurple;
+      color: MediumSpringGreen;
     }
 
 a:hover {
-      color: DodgerBlue;
+      color: PowderBlue;
       text-decoration: underline;
     }
    
